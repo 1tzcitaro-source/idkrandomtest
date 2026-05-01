@@ -31,6 +31,7 @@ plugins:
   - jekyll-assets
   # - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
   # - jekyll-paginate-v2
   # - sanitize
 safe: false
