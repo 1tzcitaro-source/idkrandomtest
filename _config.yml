@@ -24,6 +24,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: isomerpages/isomerpages-template
 is_government: false
+logo: /images/tsvlogo.png
 
 # Build settings
 markdown: kramdown
