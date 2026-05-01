@@ -6,26 +6,24 @@
 
 # This file contains the structure for the top navigation and bottom footer
 
-- title: Application Guidelines
+- title: uh yes
   url: /application-guidelines/lorem-ipsum-one/second-level-a/
   sub-links:
-  - title: Second Level A
+  - title: idk
     url: /application-guidelines/lorem-ipsum-one/second-level-a/
-  - title: Second Level B
+  - title: um
     url: /application-guidelines/lorem-ipsum-two/part-A/
-  - title: Lorem Ipsum Three
-    url: /application-guidelines/lorem-ipsum-three/ 
-- title: Legislation
+- title: idkidk
   url: https://google.com
   external: true
   sub-links:
-  - title: External Link One
+  - title: stuff
     url: https://en.wikipedia.org/wiki/Year
     external: true
   - title: External Link Two
     url: https://en.wikipedia.org/wiki/Spring_(season)
     external: true
-- title: Resources
+- title: uhh
   url: /resource_room/
   sub-links:
   - title: All
