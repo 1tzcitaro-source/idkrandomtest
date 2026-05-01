@@ -13,8 +13,8 @@
 # you will see them accessed via {{- site.title -}}, {{- site.email -}}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{- site.myvariable -}}.
-title: Isomer Pages Template
-title-abbreviated: Isomer Pages
+title: My website
+title-abbreviated: My website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website was built using the Isomer Design System and Jekyll
@@ -23,6 +23,7 @@ url: "https://www.tech.gov.sg" # the base hostname & protocol for your site, e.g
 twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: isomerpages/isomerpages-template
+is_government: false
 
 # Build settings
 markdown: kramdown
